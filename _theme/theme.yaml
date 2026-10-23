@@ -17,18 +17,17 @@ elements:
       templates:
         archive:
           category_entry_listing:
-            label: カテゴリ別記事リスト
+            label: カテゴリ別の記事リストぉぉぉぉん！
             mappings:
               category:
                 archive_type: Category
           yearly_entry_listing:
-            label: 年別ブログ記事リスト
-            mappings:
+            label: 年別ブログ記事リストたーんほげほげ            mappings:
               yearly:
                 archive_type: Yearly
         index:
           feed_recent:
-            label: 最新記事のフィード
+            label: 最新記事のフィードオォ！
             outfile: atom.xml
             rebuild_me: 1
           index_page:
@@ -45,7 +44,7 @@ elements:
             rebuild_me: 1
         individual:
           entry:
-            label: 記事
+            label: 記事たん
             mappings:
               individual:
                 archive_type: Individual
@@ -68,7 +67,7 @@ elements:
             label: footer
         page:
           page:
-            label: ウェブページ
+            label: ウェブページ～～♪
             mappings:
               page:
                 archive_type: Page
